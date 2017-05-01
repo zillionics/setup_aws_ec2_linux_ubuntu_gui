@@ -2,7 +2,7 @@
 Setup Amazon Cloud Computing EC2 Linux Instance - Ubuntu Graphical User Interface
 
 ## Setup Remote Desktop on Linux
-### Run the following commands in Putty.
+### Run ./rdp_gui.sh or the following commands in Ubuntu.
 - sudo apt update -y 
 - sudo apt install lxde -y
 - sudo start lxdm
